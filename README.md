@@ -1,6 +1,6 @@
 # Geo Experiment with Differences-in-Differences (DiD)
 
-A Jupyter notebook demonstrating how to correctly run a **geo experiment** using the **Differences-in-Differences (DiD)** approach, from a statistics perspective. The notebook covers the full workflow: notation, parallel trends check, estimation (2×2 and regression), cluster-robust inference, and power analysis.
+A Jupyter notebook demonstrating how to run a **geo experiment** using the **Differences-in-Differences (DiD)** approach, from a statistics perspective. The notebook covers the full workflow: notation, parallel trends check, estimation (2×2 and regression), cluster-robust inference, and power analysis.
 
 ---
 
